@@ -1,7 +1,7 @@
 # Refactor Tractor Group Project: FitLit
 ## Authors
 [Aaron Townshend](https://github.com/atownse)<br>
-[Elle Li](https://github.com/Elle624)<br>
+[Elle Li](https://github.com/yiranli624)<br>
 [Lola Dolinsky](https://github.com/lo-la-do-li)
 
 ## Abstract
